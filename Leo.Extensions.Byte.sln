@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leo.Extensions.Byte", "Leo.Extensions.Byte\Leo.Extensions.Byte.csproj", "{D14359FE-9B9B-4770-9B28-371DC14CB7D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leo.Extension.ByteTest", "Leo.Extension.ByteTest\Leo.Extension.ByteTest.csproj", "{5C599D6D-01FC-4FC3-B0FC-CE2BBB7A3AAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leo.Extensions.ByteTest", "Leo.Extensions.ByteTest\Leo.Extensions.ByteTest.csproj", "{5C599D6D-01FC-4FC3-B0FC-CE2BBB7A3AAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
