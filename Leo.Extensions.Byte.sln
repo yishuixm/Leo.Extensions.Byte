@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leo.Extensions.Byte", "Leo.Extensions.Byte\Leo.Extensions.Byte.csproj", "{D14359FE-9B9B-4770-9B28-371DC14CB7D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leo.Extension.ByteTest", "Leo.Extension.ByteTest\Leo.Extension.ByteTest.csproj", "{5C599D6D-01FC-4FC3-B0FC-CE2BBB7A3AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14359FE-9B9B-4770-9B28-371DC14CB7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14359FE-9B9B-4770-9B28-371DC14CB7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14359FE-9B9B-4770-9B28-371DC14CB7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14359FE-9B9B-4770-9B28-371DC14CB7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C599D6D-01FC-4FC3-B0FC-CE2BBB7A3AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C599D6D-01FC-4FC3-B0FC-CE2BBB7A3AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C599D6D-01FC-4FC3-B0FC-CE2BBB7A3AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C599D6D-01FC-4FC3-B0FC-CE2BBB7A3AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34509A92-86A1-4916-8892-51B2D6C5B1A8}
+	EndGlobalSection
+EndGlobal

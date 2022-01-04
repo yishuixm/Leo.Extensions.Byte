@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Leo.Extensions</RootNamespace>
+    <Version>0.0.2</Version>
+  </PropertyGroup>
+
+</Project>
